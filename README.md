@@ -4,4 +4,6 @@ This is my personal practice project based on the online course by Andrej Karpat
 
 Course link: [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
-Related github project: [micrograd](https://github.com/karpathy/micrograd.git)
+Related GitHub repositories: 
+[micrograd](https://github.com/karpathy/micrograd.git), 
+[makemore](https://github.com/karpathy/makemore.git)
