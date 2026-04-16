@@ -1,0 +1,16 @@
+# IDE 配置文件
+.idea/
+.vscode/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 缓存
+.ipynb_checkpoints/
+
+# 虚拟环境 (防止误传环境)
+venv/
+env/
+.env/
