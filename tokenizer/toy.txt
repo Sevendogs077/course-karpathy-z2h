@@ -1,0 +1,1 @@
+SentencePiece is a text tokenizer and detokenizer. It is language independent and treats the text as a sequence of Unicode characters. It uses subword units to achieve open-vocabulary tokenization, which allows it to handle rare and unseen words effectively. SentencePiece is widely used in natural language processing tasks, especially in training large language models like GPT-3.
